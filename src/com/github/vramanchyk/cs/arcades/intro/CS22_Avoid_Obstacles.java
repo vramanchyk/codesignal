@@ -3,7 +3,7 @@ package com.github.vramanchyk.cs.arcades.intro;
 /**
  * Created by Vitali Ramanchyk on 7/23/20.
  */
-public class AvoidObstacles {
+public class CS22_Avoid_Obstacles {
 
     int avoidObstacles(int[] array) {
         for (int jump = 2; ; jump++) {

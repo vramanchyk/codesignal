@@ -3,7 +3,7 @@ package com.github.vramanchyk.cs.arcades.intro;
 /**
  * Created by Vitali Ramanchyk on 7/23/20.
  */
-public class BoxBlur {
+public class CS23_Box_Blur {
 
     int[][] boxBlur(int[][] image) {
         int[][] result = new int[image.length - 2][image[0].length - 2];

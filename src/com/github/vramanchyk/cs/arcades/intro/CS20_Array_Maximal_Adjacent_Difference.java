@@ -3,7 +3,7 @@ package com.github.vramanchyk.cs.arcades.intro;
 /**
  * Created by Vitali Ramanchyk on 7/23/20.
  */
-public class ArrayMaximalAdjecentDifference {
+public class CS20_Array_Maximal_Adjacent_Difference {
 
     int arrayMaximalAdjacentDifference(int[] array) {
         int result = 0;

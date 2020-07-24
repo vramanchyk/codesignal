@@ -3,7 +3,7 @@ package com.github.vramanchyk.cs.arcades.intro;
 /**
  * Created by Vitali Ramanchyk on 7/23/20.
  */
-public class IsIPv4Address {
+public class CS21_Is_IPv4_Address {
 
     boolean isIPv4Address(String inputString) {
         String[] split = inputString.split("\\.");

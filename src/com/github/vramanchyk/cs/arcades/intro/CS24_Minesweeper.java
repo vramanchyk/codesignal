@@ -3,7 +3,7 @@ package com.github.vramanchyk.cs.arcades.intro;
 /**
  * Created by Vitali Ramanchyk on 7/23/20.
  */
-public class Minesweeper {
+public class CS24_Minesweeper {
 
     int[][] minesweeper(boolean[][] matrix) {
         int[][] result = new int[matrix.length][matrix[0].length];
