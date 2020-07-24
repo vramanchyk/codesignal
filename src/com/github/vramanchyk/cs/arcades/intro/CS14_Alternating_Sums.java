@@ -3,7 +3,7 @@ package com.github.vramanchyk.cs.arcades.intro;
 /**
  * Created by Vitali Ramanchyk on 7/23/20.
  */
-public class AlternatingSums {
+public class CS14_Alternating_Sums {
 
     int[] alternatingSums(int[] a) {
         int[] result = new int[2];

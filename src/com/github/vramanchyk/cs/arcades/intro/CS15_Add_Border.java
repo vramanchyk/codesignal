@@ -3,7 +3,7 @@ package com.github.vramanchyk.cs.arcades.intro;
 /**
  * Created by Vitali Ramanchyk on 7/23/20.
  */
-public class AddBorder {
+public class CS15_Add_Border {
 
     String[] addBorder(String[] picture) {
         final String[] result = new String[picture.length + 2];

@@ -3,7 +3,7 @@ package com.github.vramanchyk.cs.arcades.intro;
 /**
  * Created by Vitali Ramanchyk on 7/23/20.
  */
-public class ArrayChange {
+public class CS17_Array_Change {
 
     int arrayChange(int[] inputArray) {
         int moves = 0;

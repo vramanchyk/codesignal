@@ -3,7 +3,7 @@ package com.github.vramanchyk.cs.arcades.intro;
 /**
  * Created by Vitali Ramanchyk on 7/23/20.
  */
-public class AreSimilar {
+public class CS16_Are_Similar {
 
     boolean areSimilar(int[] A, int[] B) {
         int offset = -1;
