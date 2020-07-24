@@ -3,7 +3,7 @@ package com.github.vramanchyk.cs.arcades.intro;
 /**
  * Created by Vitali Ramanchyk on 7/23/20.
  */
-public class StringsRearrangement {
+public class CS33_Strings_Rearrangement {
 
     boolean result = false;
 

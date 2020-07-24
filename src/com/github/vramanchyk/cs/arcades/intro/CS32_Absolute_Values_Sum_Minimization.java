@@ -3,7 +3,7 @@ package com.github.vramanchyk.cs.arcades.intro;
 /**
  * Created by Vitali Ramanchyk on 7/23/20.
  */
-public class AbsoluteValuesSumMinimization {
+public class CS32_Absolute_Values_Sum_Minimization {
 
     int sum(int[] a, int x) {
         int sum = 0;
