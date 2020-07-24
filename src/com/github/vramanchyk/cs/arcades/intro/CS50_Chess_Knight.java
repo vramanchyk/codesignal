@@ -3,7 +3,7 @@ package com.github.vramanchyk.cs.arcades.intro;
 /**
  * Created by Vitali Ramanchyk on 7/23/20.
  */
-public class ChessKnight {
+public class CS50_Chess_Knight {
 
     int[] position(String s) {
         return new int[]{s.charAt(0) - 'a', s.charAt(1) - '1'};

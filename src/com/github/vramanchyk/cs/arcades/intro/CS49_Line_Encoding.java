@@ -3,7 +3,7 @@ package com.github.vramanchyk.cs.arcades.intro;
 /**
  * Created by Vitali Ramanchyk on 7/23/20.
  */
-public class LineEncoding {
+public class CS49_Line_Encoding {
 
     String lineEncoding(String s) {
         String result = "";

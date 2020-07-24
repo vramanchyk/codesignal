@@ -3,7 +3,7 @@ package com.github.vramanchyk.cs.arcades.intro;
 /**
  * Created by Vitali Ramanchyk on 7/23/20.
  */
-public class DeleteDigit {
+public class CS51_Delete_Digit {
 
     int deleteDigit(int n) {
         int ten = 1;
