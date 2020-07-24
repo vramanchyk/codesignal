@@ -3,7 +3,7 @@ package com.github.vramanchyk.cs.arcades.intro;
 /**
  * Created by Vitali Ramanchyk on 7/23/20.
  */
-public class MatrixElementsSum {
+public class CS08_Matrix_Elements_Sum {
 
     int matrixElementsSum(int[][] matrix) {
         int sum = 0;

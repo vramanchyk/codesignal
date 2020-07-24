@@ -3,7 +3,7 @@ package com.github.vramanchyk.cs.arcades.intro;
 /**
  * Created by Vitali Ramanchyk on 7/23/20.
  */
-public class AlmostIncreasingSequence {
+public class CS07_Almost_Increasing_Sequence {
 
     boolean almostIncreasingSequence(int[] seq) {
 
