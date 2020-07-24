@@ -3,7 +3,7 @@ package com.github.vramanchyk.cs.arcades.intro;
 /**
  * Created by Vitali Ramanchyk on 7/23/20.
  */
-public class EvenDigitsOnly {
+public class CS26_Even_Digits_Only {
 
     boolean evenDigitsOnly(int n) {
         while (n > 0) {

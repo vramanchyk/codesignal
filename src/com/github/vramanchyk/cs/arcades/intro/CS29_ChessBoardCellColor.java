@@ -3,7 +3,7 @@ package com.github.vramanchyk.cs.arcades.intro;
 /**
  * Created by Vitali Ramanchyk on 7/23/20.
  */
-public class ChessBoardCellColor {
+public class CS29_ChessBoardCellColor {
 
     int[] getCell(String s) {
         return new int[]{s.charAt(0) - 'A', s.charAt(1) - '0'};

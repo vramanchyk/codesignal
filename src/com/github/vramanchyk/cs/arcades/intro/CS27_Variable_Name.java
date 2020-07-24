@@ -3,7 +3,7 @@ package com.github.vramanchyk.cs.arcades.intro;
 /**
  * Created by Vitali Ramanchyk on 7/23/20.
  */
-public class VariableName {
+public class CS27_Variable_Name {
 
     boolean variableName(String name) {
         for (char ch : name.toLowerCase().toCharArray()) {
