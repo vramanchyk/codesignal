@@ -3,7 +3,7 @@ package com.github.vramanchyk.cs.arcades.intro;
 /**
  * Created by Vitali Ramanchyk on 7/23/20.
  */
-public class LongestDigitsPrefix {
+public class CS40_Longest_Digits_Prefix {
 
     String longestDigitsPrefix(String str) {
         String result = "";

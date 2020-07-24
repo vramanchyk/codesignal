@@ -3,7 +3,7 @@ package com.github.vramanchyk.cs.arcades.intro;
 /**
  * Created by Vitali Ramanchyk on 7/23/20.
  */
-public class KnapsackLight {
+public class CS39_Knapsack_Light {
 
     int knapsackLight(int value1, int weight1, int value2, int weight2, int maxW) {
         if (weight1 + weight2 <= maxW) {
