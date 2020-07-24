@@ -6,7 +6,7 @@ import java.util.Set;
 /**
  * Created by Vitali Ramanchyk on 7/23/20.
  */
-public class DifferentSquares {
+public class CS55_Different_Squares {
 
     int differentSquares(int[][] matrix) {
         Set<Integer> set = new HashSet<>();

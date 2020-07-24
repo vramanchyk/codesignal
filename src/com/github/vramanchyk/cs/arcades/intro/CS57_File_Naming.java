@@ -7,7 +7,7 @@ import java.util.Set;
 /**
  * Created by Vitali Ramanchyk on 7/23/20.
  */
-public class FileNaming {
+public class CS57_File_Naming {
 
     String[] fileNaming(String[] names) {
         final Set<String> set = new HashSet<>();

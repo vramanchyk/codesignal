@@ -3,7 +3,7 @@ package com.github.vramanchyk.cs.arcades.intro;
 /**
  * Created by Vitali Ramanchyk on 7/23/20.
  */
-public class DigitsProduct {
+public class CS56_Digits_Product {
 
     int product(int n) {
         int result = 1;

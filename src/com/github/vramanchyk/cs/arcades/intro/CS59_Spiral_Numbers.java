@@ -3,7 +3,7 @@ package com.github.vramanchyk.cs.arcades.intro;
 /**
  * Created by Vitali Ramanchyk on 7/23/20.
  */
-public class SpiralNumbers {
+public class CS59_Spiral_Numbers {
 
     final int[][] DIR = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
 

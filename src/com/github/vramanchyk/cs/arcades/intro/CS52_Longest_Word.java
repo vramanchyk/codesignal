@@ -3,7 +3,7 @@ package com.github.vramanchyk.cs.arcades.intro;
 /**
  * Created by Vitali Ramanchyk on 7/23/20.
  */
-public class LongestWord {
+public class CS52_Longest_Word {
 
     String longestWord(String text) {
 
