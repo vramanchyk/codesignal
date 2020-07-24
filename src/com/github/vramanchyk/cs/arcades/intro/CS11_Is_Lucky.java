@@ -3,7 +3,7 @@ package com.github.vramanchyk.cs.arcades.intro;
 /**
  * Created by Vitali Ramanchyk on 7/23/20.
  */
-public class IsLucky {
+public class CS11_Is_Lucky {
 
     boolean isLucky(int n) {
 

@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * Created by Vitali Ramanchyk on 7/23/20.
  */
-public class SortByHeight {
+public class CS12_Sort_By_Height {
 
     int[] sortByHeight(int[] a) {
         int[] result = new int[a.length];

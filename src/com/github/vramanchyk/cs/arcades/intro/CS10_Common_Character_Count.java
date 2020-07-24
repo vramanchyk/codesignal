@@ -3,7 +3,7 @@ package com.github.vramanchyk.cs.arcades.intro;
 /**
  * Created by Vitali Ramanchyk on 7/23/20.
  */
-public class CommonCharacterCount {
+public class CS10_Common_Character_Count {
 
     int commonCharacterCount(String s1, String s2) {
         int[] c1 = new int[26], c2 = new int[26];

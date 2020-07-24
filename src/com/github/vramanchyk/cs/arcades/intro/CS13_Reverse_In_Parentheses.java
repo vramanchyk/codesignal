@@ -6,7 +6,7 @@ import java.util.LinkedList;
 /**
  * Created by Vitali Ramanchyk on 7/23/20.
  */
-public class ReverseInParentheses {
+public class CS13_Reverse_In_Parentheses {
 
     String reverseInParentheses(String str) {
         Deque<Character> deque = new LinkedList<>();
