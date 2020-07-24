@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * Created by Vitali Ramanchyk on 7/23/20.
  */
-public class DifferentSymbolsNaive {
+public class CS36_Different_Symbols_Naive {
 
     int differentSymbolsNaive(String s) {
         char[] chars = s.toCharArray();

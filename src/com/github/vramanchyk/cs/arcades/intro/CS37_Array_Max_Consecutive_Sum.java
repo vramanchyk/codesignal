@@ -3,7 +3,7 @@ package com.github.vramanchyk.cs.arcades.intro;
 /**
  * Created by Vitali Ramanchyk on 7/23/20.
  */
-public class ArrayMaxConsecutiveSum {
+public class CS37_Array_Max_Consecutive_Sum {
 
     int arrayMaxConsecutiveSum(int[] array, int k) {
         int sum = 0;

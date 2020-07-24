@@ -3,7 +3,7 @@ package com.github.vramanchyk.cs.arcades.intro;
 /**
  * Created by Vitali Ramanchyk on 7/23/20.
  */
-public class ExtractEachKth {
+public class CS34_Extract_Each_Kth {
 
     int[] extractEachKth(int[] inputArray, int k) {
         int len = inputArray.length - inputArray.length / k;
