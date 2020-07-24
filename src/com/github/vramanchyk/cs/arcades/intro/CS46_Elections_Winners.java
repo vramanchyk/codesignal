@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * Created by Vitali Ramanchyk on 7/23/20.
  */
-public class ElectionsWinners {
+public class CS46_Elections_Winners {
 
     int electionsWinners(int[] votes, int k) {
         long max = Arrays.stream(votes).max().orElse(0);

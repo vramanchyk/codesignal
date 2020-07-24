@@ -3,7 +3,7 @@ package com.github.vramanchyk.cs.arcades.intro;
 /**
  * Created by Vitali Ramanchyk on 7/23/20.
  */
-public class IsBeautifulString {
+public class CS43_Is_Beautiful_String {
 
     boolean isBeautifulString(String str) {
         int[] counts = new int[26];

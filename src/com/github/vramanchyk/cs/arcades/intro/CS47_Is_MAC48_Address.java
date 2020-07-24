@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * Created by Vitali Ramanchyk on 7/23/20.
  */
-public class IsMAC48Address {
+public class CS47_Is_MAC48_Address {
 
     boolean isValid(char ch) {
         return (ch >= '0' && ch <= '9') || (ch >= 'A' && ch <= 'F');

@@ -3,7 +3,7 @@ package com.github.vramanchyk.cs.arcades.intro;
 /**
  * Created by Vitali Ramanchyk on 7/23/20.
  */
-public class BuildPalindrome {
+public class CS45_Build_Palindrome {
 
     boolean isPalindrome(String str) {
         for (int i = 0; i < str.length(); i++) {
